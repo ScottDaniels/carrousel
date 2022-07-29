@@ -1,3 +1,3 @@
-module github.com/ScottDaniels/Carrousel
+module github.com/ScottDaniels/carrousel
 
 go 1.16
