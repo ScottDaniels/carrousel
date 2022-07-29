@@ -7,7 +7,7 @@ import (
 	"time"
 
 	//"merryGoRound/pkg/proxy"
-	"Carrousel/pkg/proxy"
+	"carrousel/pkg/proxy"
 )
 
 // Tor represents an HTTP Client over the Tor network

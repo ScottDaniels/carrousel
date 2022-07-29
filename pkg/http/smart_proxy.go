@@ -7,7 +7,7 @@ import (
 	"sync"
 	"time"
 
-	"Carrousel/pkg/proxy"
+	"carrousel/pkg/proxy"
 )
 
 // SmartProxyClient ...
