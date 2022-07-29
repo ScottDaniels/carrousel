@@ -1,11 +1,13 @@
 package http
 
 import (
-	"merryGoRound/pkg/proxy"
+	//"merryGoRound/pkg/proxy"
 	"net"
 	"net/http"
 	"sync"
 	"time"
+
+	"Carrousel/pkg/proxy"
 )
 
 // SmartProxyClient ...
